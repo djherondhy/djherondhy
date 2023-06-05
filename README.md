@@ -48,20 +48,13 @@ Here are some noteworthy projects I have worked on:
 
 Feel free to explore my repositories to discover more of my work!
 
-## 📓 Learning Journey
-As an engineering student, I am constantly learning and growing. Here are some of the topics I am currently focusing on:
-
-- DevOps practices and tools
-- Advanced web development concepts
-- Improving my skills in React and React Native
-
 ## Contact Me
-If you'd like to get in touch with me or collaborate on a project, you can reach me via:
 
-- 📧Email: djherondhyoficial@gmail.com
-- LinkedIn: https://www.linkedin.com/in/djherondhy/
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-I am always open to new opportunities and exciting projects!
+djherondhyoficial@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/djherondhy/
 
 Thank you for visiting my GitHub profile. Have a great day!
 
