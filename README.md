@@ -45,6 +45,9 @@ Here are some noteworthy projects I have worked on:
 
 2. Task Log: Task Log with ReactJs and Typescript consuming an Express API with TypeORM
    - Repository: https://github.com/djherondhy/task-log-system
+     
+2. MyTask: Task Manager for Scrum using Ajax and PHP
+   - Repository: https://github.com/djherondhy/my-task
 
 Feel free to explore my repositories to discover more of my work!
 
