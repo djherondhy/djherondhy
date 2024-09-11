@@ -40,10 +40,6 @@ Here are the technologies and programming languages I work with:
 
 ## Contact Me
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-djherondhyoficial@gmail.com
-
 LinkedIn: https://www.linkedin.com/in/djherondhy/
 
 Thank you for visiting my GitHub profile. Have a great day!
