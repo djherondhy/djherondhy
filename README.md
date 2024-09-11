@@ -37,20 +37,6 @@ Here are the technologies and programming languages I work with:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📑 Projects
-Here are some noteworthy projects I have worked on:
-
-1. SCAC: Animal Entry and Exit Management System using Ajax and PHP synchronous requests.
-   - Repository: https://github.com/djherondhy/scac
-
-2. Connect Farma: E-Commerce 
-   - Repository: [https://github.com/djherondhy/task-log-system](https://github.com/connectfarma/cf_sistema)
-     
-2. MyTask: Task Manager for Scrum using Ajax and PHP
-   - Repository: https://github.com/djherondhy/my-task
-     
-
-Feel free to explore my repositories to discover more of my work!
 
 ## Contact Me
 
