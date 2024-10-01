@@ -57,6 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/djherondhy/djherondhy/output/snake.svg" alt="Snake animation" />
+
 
 ###
